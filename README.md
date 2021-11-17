@@ -2,6 +2,7 @@
 
 * number of junctions and lengths of lines in skeleton - do dis dont slack
   * https://jni.github.io/skan/index.html Try this library for skeleton analysis
+  * [3d volume plots blog post](https://blog.jupyter.org/ipygany-jupyter-into-the-third-dimension-29a97597fc33)
 * Lee94 skeletonization in 3D? Revsit if needed after discussion (used medial axis thinning)
 * 3d model converted into mesh
 * finite element analysis
