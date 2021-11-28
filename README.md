@@ -1,7 +1,7 @@
 # sea-urchin-private
 
 ### Current issue:
-curvature heatmap bad, possible bug in perimeter coordinate list
+all data into one matplotlib grid gif
 
 * number of junctions and lengths of lines in skeleton - do dis dont slack
   * https://jni.github.io/skan/index.html Try this library for skeleton analysis
