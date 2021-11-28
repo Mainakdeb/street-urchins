@@ -1,8 +1,9 @@
 # sea-urchin-private
 
 ### Current issue:
-all data into one matplotlib grid gif
+Export data into an excel sheet and compare + visualize with Valentinas data
 
+### Misc:
 * number of junctions and lengths of lines in skeleton - do dis dont slack
   * https://jni.github.io/skan/index.html Try this library for skeleton analysis
   * [3d volume plots blog post](https://blog.jupyter.org/ipygany-jupyter-into-the-third-dimension-29a97597fc33) -> https://k3d-jupyter.org/
