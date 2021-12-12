@@ -1,7 +1,9 @@
 # sea-urchin-private
 
 ### Current issue:
-Export data into an excel sheet and compare + visualize with Valentinas data
+* Export data into an excel sheet and compare
+* visualize with Valentinas data
+* qualtify difference between valentinas segmentation data and mine
 
 ### Misc:
 * number of junctions and lengths of lines in skeleton - do dis dont slack
