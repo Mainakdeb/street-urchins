@@ -1,6 +1,7 @@
 # sea-urchin-private
 
 ### Current issue:
+* Plot voxels in 3d instead of mesh?
 * Export data into an excel sheet and compare
 * visualize with Valentinas data
 * qualtify difference between valentinas segmentation data and mine
