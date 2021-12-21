@@ -1,6 +1,7 @@
 # sea-urchin-private
 
 ### Current issue:
+* talk to advisor about student exchange asap
 * do everything fr one slice, then quantify differences bw your and valentina algo
 * use seg3d segmentation only
 * complete creative freedom for exhibition
