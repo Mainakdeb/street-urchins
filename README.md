@@ -2,6 +2,7 @@
 
 ### Current issue:
 * use seg3d segmentation only
+* complete creative freedom for exhibition
 * Plot voxels in 3d instead of mesh?
 * modularize everything
 * qualtify difference between valentinas segmentation data and mine
