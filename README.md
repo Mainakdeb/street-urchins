@@ -1,6 +1,7 @@
 # sea-urchin-private
 
 ### Current issue:
+* do everything fr one slice, then quantify differences bw your and valentina algo
 * use seg3d segmentation only
 * complete creative freedom for exhibition
 * Plot voxels in 3d instead of mesh?
