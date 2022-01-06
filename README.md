@@ -1,13 +1,10 @@
 # sea-urchin-private
 
 ### Current issue:
-* talk to advisor about student exchange asap
 * do everything fr one slice, then quantify differences bw your and valentina algo
-* use seg3d segmentation only
 * complete creative freedom for exhibition
 * Plot voxels in 3d instead of mesh?
 * modularize everything
-* qualtify difference between valentinas segmentation data and mine
 
 ### Misc:
 * https://jni.github.io/skan/index.html 
