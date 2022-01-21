@@ -1,8 +1,8 @@
 # sea-urchin-private
 
 ### Current issue:
+* porousity? accross z axis
 * do everything fr one slice, then quantify differences bw your and valentina algo
-* complete creative freedom for exhibition
 * Plot voxels in 3d instead of mesh?
 * modularize everything
 
@@ -10,6 +10,6 @@
 * https://jni.github.io/skan/index.html 
 * [3d volume plots blog post](https://blog.jupyter.org/ipygany-jupyter-into-the-third-dimension-29a97597fc33) -> https://k3d-jupyter.org/
 * finite element analysis
-* porousity? accross z axis
+
 * pore space in 3d
 * isosurface in python?
