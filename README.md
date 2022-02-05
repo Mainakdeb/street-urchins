@@ -1,7 +1,6 @@
 # sea-urchin-private
 
 ### Current issue:
-* porousity? accross z axis
 * do everything fr one slice, then quantify differences bw your and valentina algo
 * Plot voxels in 3d instead of mesh?
 * modularize everything
