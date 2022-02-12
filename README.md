@@ -9,6 +9,3 @@
 * https://jni.github.io/skan/index.html 
 * [3d volume plots blog post](https://blog.jupyter.org/ipygany-jupyter-into-the-third-dimension-29a97597fc33) -> https://k3d-jupyter.org/
 * finite element analysis
-
-* pore space in 3d
-* isosurface in python?
