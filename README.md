@@ -1,3 +1,5 @@
+## Extracting Metadata from 3D Sea Urchin Trabecular Bone Structure
+
 ### Steps Involved:
 ![](/images_and_gifs/horizontal_skeletonization_steps.png)
 1. Blur raw data to smooth out high freuency noise -> leads to better thresholding results
