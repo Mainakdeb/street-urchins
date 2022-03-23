@@ -21,13 +21,13 @@ The gif below showcases z axis slices - from left: thresholded data, 3D distance
 
 <img src="/images_and_gifs/horizontal_seg+distrans+branch+nodes.gif" width="750" title="hover text">
 
-### Thresholded data
+### Thresholded data and Skeleton:
 
 ![](/images_and_gifs/raw_data_3d_imjoy.gif)
-
-### Skeleton 
-
 ![](/images_and_gifs/skeleton_3d_imjoy.gif)
+
+
+
 
  
 
