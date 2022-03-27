@@ -23,8 +23,8 @@ The gif below showcases z axis slices - from left: thresholded data, 3D distance
 
 ### Thresholded data and Skeleton:
 
-![](/images_and_gifs/raw_data_3d_imjoy.gif)
-![](/images_and_gifs/skeleton_3d_imjoy.gif)
+![](/images_and_gifs/imjoy-collage-compressed.gif)
+
 
 
 
